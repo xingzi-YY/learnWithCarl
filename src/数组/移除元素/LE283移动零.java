@@ -20,6 +20,8 @@ public class LE283移动零 {
                 i++;
             }
         }
+        StringBuilder stringBuilder = new StringBuilder();
+
     }
 
 }

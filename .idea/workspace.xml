@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="772fd755-c33e-426b-9096-50f1523ee9a8" name="Changes" comment="Day2二分查找2">
-      <change afterPath="$PROJECT_DIR$/src/数组/移除元素/LE26删除有序数组中的重复项.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/数组/移除元素/LE283移动零.java" afterDir="false" />
+    <list default="true" id="772fd755-c33e-426b-9096-50f1523ee9a8" name="Changes" comment="Day3移除元素1">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/数组/移除元素/LE844比较含退格的字符串.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/数组/移除元素/LE977有序数组的平方.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/数组/移除元素/LE283移动零.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/数组/移除元素/LE283移动零.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +63,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1680332077827</updated>
-      <workItem from="1680332080320" duration="8427000" />
+      <workItem from="1680332080320" duration="8494000" />
+      <workItem from="1680616561252" duration="1867000" />
+      <workItem from="1680700051994" duration="1367000" />
     </task>
     <task id="LOCAL-00001" summary="Day1二分查找1">
       <created>1680346178472</created>
@@ -77,7 +81,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680410143468</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Day3移除元素1">
+      <created>1680531374146</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1680531374146</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -97,6 +108,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Day1二分查找1" />
     <MESSAGE value="Day2二分查找2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day2二分查找2" />
+    <MESSAGE value="Day3移除元素1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day3移除元素1" />
   </component>
 </project>
