@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="772fd755-c33e-426b-9096-50f1523ee9a8" name="Changes" comment="Day3移除元素1">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/数组/移除元素/LE844比较含退格的字符串.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/数组/移除元素/LE977有序数组的平方.java" afterDir="false" />
+    <list default="true" id="772fd755-c33e-426b-9096-50f1523ee9a8" name="Changes" comment="Day4长度最小的子数组1">
+      <change afterPath="$PROJECT_DIR$/src/数组/长度最小的子数组/LM904水果成篮.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/数组/移除元素/LE283移动零.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/数组/移除元素/LE283移动零.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/数组/长度最小的子数组/LM209长度最小的子数组.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/数组/长度最小的子数组/LM209长度最小的子数组.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +50,26 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
+  <component name="RunManager">
+    <configuration name="LM904水果成篮" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="数组.长度最小的子数组.LM904水果成篮" />
+      <module name="learnWithCarl" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="数组.长度最小的子数组.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LM904水果成篮" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration>C:\Users\lenovo\AppData\Roaming\Subversion</configuration>
@@ -65,7 +83,8 @@
       <updated>1680332077827</updated>
       <workItem from="1680332080320" duration="8494000" />
       <workItem from="1680616561252" duration="1867000" />
-      <workItem from="1680700051994" duration="1367000" />
+      <workItem from="1680700051994" duration="1633000" />
+      <workItem from="1680789457421" duration="2724000" />
     </task>
     <task id="LOCAL-00001" summary="Day1二分查找1">
       <created>1680346178472</created>
@@ -88,7 +107,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680531374146</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Day4长度最小的子数组1">
+      <created>1680702706380</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1680702706380</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,6 +135,18 @@
     <MESSAGE value="Day1二分查找1" />
     <MESSAGE value="Day2二分查找2" />
     <MESSAGE value="Day3移除元素1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day3移除元素1" />
+    <MESSAGE value="Day4长度最小的子数组1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day4长度最小的子数组1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/数组/长度最小的子数组/LM904水果成篮.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
